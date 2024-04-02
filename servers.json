@@ -1,0 +1,20 @@
+[
+    {
+      "color": "A9A9A9",
+      "dopname": "(ЗБТ)",
+      "maxonline": 1000,
+      "name": "OLD",
+      "online": 100,
+      "ip": "185.189.15.22",
+      "port": 1151
+    },
+    {
+      "color": "A9A9A9",
+      "dopname": "NO WORK!",
+      "maxonline": 1000,
+      "name": "OLD DM",
+      "online": 100,
+      "ip": "185.189.15.22",
+      "port": 1629
+    }
+]
