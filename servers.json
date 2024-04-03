@@ -10,9 +10,9 @@
     },
     {
       "color": "A9A9A9",
-      "dopname": "NO WORK!",
+      "dopname": (DEV)",
       "maxonline": 1000,
-      "name": "OLD DM",
+      "name": "Dev Solomka",
       "online": 100,
       "ip": "185.189.15.22",
       "port": 1629
